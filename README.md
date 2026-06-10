@@ -57,8 +57,8 @@ This repository is both a **learning roadmap** and a **portfolio**. You’ll mas
 
 ## 📬 Contact & Portfolio
 
-- **LinkedIn**: [Your Profile](#)
+- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/kunal-yadav-194364123/)
 - **Portfolio Website**: [yourportfolio.com](#)
-- **Email**: your.email@example.com
+- **Email**: kunal23ydv1999@gmail.co,
 
 *If this repository helped you, please ⭐ star it to show support!*
