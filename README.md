@@ -61,4 +61,11 @@ This repository is both a **learning roadmap** and a **portfolio**. You’ll mas
 - **Portfolio Website**: [yourportfolio.com](#)
 - **Email**: kunal23ydv1999@gmail.co,
 
+### GitHub Badges
+![Stars](https://img.shields.io/github/stars/kunalyadav-2000/SQL-for-Data-Analysis?style=social)
+![Forks](https://img.shields.io/github/forks/kunalyadav-2000/SQL-for-Data-Analysis?style=social)
+![License](https://img.shields.io/github/license/kunalyadav-2000/SQL-for-Data-Analysis)
+![Last Commit](https://img.shields.io/github/last-commit/kunalyadav-2000/SQL-for-Data-Analysis)
+![Repo Size](https://img.shields.io/github/repo-size/kunalyadav-2000/SQL-for-Data-Analysis)
+
 *If this repository helped you, please ⭐ star it to show support!*
