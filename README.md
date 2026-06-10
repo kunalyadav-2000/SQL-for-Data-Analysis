@@ -1,7 +1,7 @@
 # SQL for Data Analysis – The Portfolio Roadmap
 
-![Stars](https://img.shields.io/github/stars/yourusername/SQL-Data-Analysis-Roadmap?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/SQL-Data-Analysis-Roadmap)
+![Stars](https://img.shields.io/github/stars/kunalyadav-2000/SQL-Data-Analysis-Roadmap?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/kunalyadav-2000/SQL-Data-Analysis-Roadmap)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Progress](https://img.shields.io/badge/Progress-70%25-brightgreen)
 
